@@ -1,0 +1,260 @@
+[
+  {
+    "name": "iPhone 13",
+    "price": 999,
+    "featured": true,
+    "company": "Apple"
+  },
+  {
+    "name": "Galaxy S21",
+    "price": 799,
+    "company": "Samsung"
+  },
+  {
+    "name": "OnePlus 9",
+    "price": 729,
+    "company": "One Plus"
+  },
+  {
+    "name": "XPS 13",
+    "price": 999,
+    "company": "Dell"
+  },
+  {
+    "name": "Mi 11",
+    "price": 699,
+    "company": "MI"
+  },
+  {
+    "name": "Pixel 5",
+    "price": 699,
+    "company": "Google"
+  },
+  {
+    "name": "iPad Pro",
+    "price": 799,
+    "featured": true,
+    "company": "Apple"
+  },
+  {
+    "name": "Galaxy Tab S7",
+    "price": 649,
+    "company": "Samsung"
+  },
+  {
+    "name": "OnePlus 8",
+    "price": 599,
+    "company": "One Plus"
+  },
+  {
+    "name": "XPS 15",
+    "price": 1299,
+    "company": "Dell"
+  },
+  {
+    "name": "Mi Notebook Pro",
+    "price": 799,
+    "company": "MI"
+  },
+  {
+    "name": "Pixel 4a",
+    "price": 349,
+    "company": "Google"
+  },
+  {
+    "name": "MacBook Air",
+    "price": 999,
+    "featured": true,
+    "company": "Apple"
+  },
+  {
+    "name": "Galaxy Buds Pro",
+    "price": 199,
+    "company": "Samsung"
+  },
+  {
+    "name": "OnePlus Nord",
+    "price": 499,
+    "company": "One Plus"
+  },
+  {
+    "name": "Inspiron 15",
+    "price": 549,
+    "company": "Dell"
+  },
+  {
+    "name": "Mi Band 6",
+    "price": 49,
+    "company": "MI"
+  },
+  {
+    "name": "Nest Hub",
+    "price": 99,
+    "company": "Google"
+  },
+  {
+    "name": "iMac",
+    "price": 1299,
+    "featured": true,
+    "company": "Apple"
+  },
+  {
+    "name": "Galaxy Watch 3",
+    "price": 399,
+    "company": "Samsung"
+  },
+  {
+    "name": "iPhone 12",
+    "price": 899,
+    "company": "Apple"
+  },
+  {
+    "name": "Galaxy S20",
+    "price": 699,
+    "company": "Samsung"
+  },
+  {
+    "name": "OnePlus 8T",
+    "price": 749,
+    "company": "One Plus"
+  },
+  {
+    "name": "XPS 17",
+    "price": 1499,
+    "company": "Dell"
+  },
+  {
+    "name": "Mi 10",
+    "price": 599,
+    "company": "MI"
+  },
+  {
+    "name": "Pixel 4",
+    "price": 599,
+    "company": "Google"
+  },
+  {
+    "name": "MacBook Pro",
+    "price": 1299,
+    "featured": true,
+    "company": "Apple"
+  },
+  {
+    "name": "Galaxy Tab S6",
+    "price": 549,
+    "company": "Samsung"
+  },
+  {
+    "name": "OnePlus 7",
+    "price": 499,
+    "company": "One Plus"
+  },
+  {
+    "name": "Inspiron 13",
+    "price": 799,
+    "company": "Dell"
+  },
+  {
+    "name": "Mi 9",
+    "price": 499,
+    "company": "MI"
+  },
+  {
+    "name": "Pixel 3",
+    "price": 499,
+    "company": "Google"
+  },
+  {
+    "name": "iPad Air",
+    "price": 599,
+    "featured": true,
+    "company": "Apple"
+  },
+  {
+    "name": "Galaxy Buds Live",
+    "price": 169,
+    "company": "Samsung"
+  },
+  {
+    "name": "OnePlus Nord CE",
+    "price": 399,
+    "company": "One Plus"
+  },
+  {
+    "name": "Inspiron 17",
+    "price": 999,
+    "company": "Dell"
+  },
+  {
+    "name": "Mi Watch",
+    "price": 99,
+    "company": "MI"
+  },
+  {
+    "name": "Nest Mini",
+    "price": 49,
+    "company": "Google"
+  },
+  {
+    "name": "iMac Pro",
+    "price": 1999,
+    "featured": true,
+    "company": "Apple"
+  },
+  {
+    "name": "Galaxy Watch Active",
+    "price": 299,
+    "company": "Samsung"
+  },
+  {
+    "name": "OnePlus 7T",
+    "price": 649,
+    "company": "One Plus"
+  },
+  {
+    "name": "XPS 13 2-in-1",
+    "price": 999,
+    "company": "Dell"
+  },
+  {
+    "name": "Mi 10T",
+    "price": 399,
+    "company": "MI"
+  },
+  {
+    "name": "Pixel 2",
+    "price": 399,
+    "company": "Google"
+  },
+  {
+    "name": "Mac Mini",
+    "price": 799,
+    "featured": true,
+    "company": "Apple"
+  },
+  {
+    "name": "Galaxy Tab S5e",
+    "price": 429,
+    "company": "Samsung"
+  },
+  {
+    "name": "OnePlus 6",
+    "price": 469,
+    "company": "One Plus"
+  },
+  {
+    "name": "Inspiron 14",
+    "price": 749,
+    "company": "Dell"
+  },
+  {
+    "name": "Mi Note 10",
+    "price": 499,
+    "company": "MI"
+  },
+  {
+    "name": "Pixelbook Go",
+    "price": 649,
+    "company": "Google"
+  }
+]
