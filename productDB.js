@@ -1,4 +1,4 @@
-const connectDB = require("./db/connect");
+const connectDB = require("/db/connect");
 const Product = require("./models/productsModel");
 const ProductJson = require("./products.json");
 
