@@ -4,6 +4,9 @@ const app = express();
 const PORT = process.env.PORT || 5050;
 const connectDB = require("./db/connect");
 const products_routes = require("./routes/productsRoute");
+const cors = require("cors");
+
+app.use(cors());
 
 app.get("/", (req, res) => {
   res.send("Server is Live! ");
